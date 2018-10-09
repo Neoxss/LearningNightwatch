@@ -1,0 +1,22 @@
+{
+  "name": "testing-nightwatch",
+  "version": "1.0.0",
+  "description": "Testing stuff on Nightwatch",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neoxss/LearningNightwatch.git"
+  },
+  "author": "Luis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neoxss/LearningNightwatch/issues"
+  },
+  "homepage": "https://github.com/Neoxss/LearningNightwatch#readme",
+  "dependencies": {
+    "nightwatch": "^1.0.11"
+  }
+}
